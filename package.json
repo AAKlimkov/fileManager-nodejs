@@ -1,0 +1,17 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "thit is study file manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "filemanager"
+  ],
+  "author": "A.A.Klikov",
+  "license": "ISC"
+}
