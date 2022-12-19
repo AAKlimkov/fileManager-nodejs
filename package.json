@@ -1,7 +1,7 @@
 {
   "name": "file-manager",
   "version": "1.0.0",
-  "description": "thit is study file manager",
+  "description": "this is study file manager",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,5 +13,13 @@
     "filemanager"
   ],
   "author": "A.A.Klikov",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAKlimkov/fileManager-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AAKlimkov/fileManager-nodejs/issues"
+  },
+  "homepage": "https://github.com/AAKlimkov/fileManager-nodejs#readme"
 }
