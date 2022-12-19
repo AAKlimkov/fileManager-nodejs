@@ -1,4 +1,4 @@
-import { opendir } from 'node:fs/promises';
+import { opendir } from 'fs/promises';
 
  async function open(path) {
     try {
